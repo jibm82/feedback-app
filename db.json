@@ -9,6 +9,11 @@
       "id": 2,
       "text": "This is feecback item 2",
       "rating": 4
+    },
+    {
+      "text": "This is a new item jaja",
+      "rating": 8,
+      "id": 3
     }
   ]
 }
